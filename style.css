@@ -1,0 +1,55 @@
+/*log-in section css*/
+
+.back-ground{
+    background: linear-gradient(10deg,rgb(11, 44, 11),rgb(85, 70, 70));
+    height:562px;
+}
+.di{
+   
+    color:white;
+    /*background-color: rgb(112, 112, 172);*/
+    background: linear-gradient(10deg,rgb(11, 44, 11),rgb(85, 70, 70));
+    border-radius: 20px ;
+    padding: 30px;
+    height:400px;
+    width: 800px;
+    margin:80px 110px 80px 230px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  #acc{
+    text-align: center;
+  }
+  #but{
+    text-align: center;
+    background-color: antiquewhite;
+    margin-bottom:25px;
+    padding: 4px 8px 4px 8px;
+    margin-left: 53px;
+    
+  
+  
+  }
+  .kio{
+    background-color:rgb(231, 224, 224);
+    height: 20px;
+    width:300px;
+    /*display:flex;
+    align-items: center;*/
+  }
+  
+  .dis
+  {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap:80px;
+
+  }
+
+  .ok3{
+    border: 2px,solid,rgb(9, 52, 22);
+  }
+ 
+  /*end of log in section css*/
